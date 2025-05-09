@@ -9,7 +9,6 @@ I am a passionate full-stack developer with over 3+ years of experience in build
 - **Focus:** Delivering scalable, high-performance digital solutions
 
 ## 💡 Technical Expertise
-
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,6 +44,9 @@ I am a passionate full-stack developer with over 3+ years of experience in build
 ### Project Management Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Monday](https://img.shields.io/badge/Monday.com-0288D1?style=for-the-badge&logo=monday&logoColor=white)
+
+### IDE
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## 🌟 Professional Highlights
 - Successfully developed responsive and intuitive web applications
