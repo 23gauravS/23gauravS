@@ -12,6 +12,18 @@ I am a passionate full-stack developer with over 3+ years of experience in build
 
 ![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square)
 
+### 🏆 GitHub Stats
+
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23gauravS&show_icons=true&theme=radical)
+
+### 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23gauravS&layout=compact&theme=radical)
+
+### ⏳ GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=23gauravS&theme=radical&hide_border=true)
+
 ## 💡 Technical Expertise
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
