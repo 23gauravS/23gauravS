@@ -8,21 +8,6 @@ I am a passionate full-stack developer with over 3+ years of experience in build
 - **Expertise:** Full-stack web development
 - **Focus:** Delivering scalable, high-performance digital solutions
 
-### 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square)
-
-### 🏆 GitHub Stats
-
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23gauravS&show_icons=true&theme=radical)
-
-### 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23gauravS&layout=compact&theme=radical)
-
-### ⏳ GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=23gauravS&theme=radical&hide_border=true)
 
 ## 💡 Technical Expertise
 ### Frontend Technologies
@@ -63,6 +48,20 @@ I am a passionate full-stack developer with over 3+ years of experience in build
 
 ### IDE
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square)
+
+### 🏆 GitHub Stats
+
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23gauravS&show_icons=true&theme=radical)
+
+
+### ⏳ GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=23gauravS&theme=radical&hide_border=true)
+
 
 ## 🌟 Professional Highlights
 - Successfully developed responsive and intuitive web applications
