@@ -8,6 +8,10 @@ I am a passionate full-stack developer with over 3+ years of experience in build
 - **Expertise:** Full-stack web development
 - **Focus:** Delivering scalable, high-performance digital solutions
 
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square)
+
 ## 💡 Technical Expertise
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
