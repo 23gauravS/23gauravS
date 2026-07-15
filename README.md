@@ -5,11 +5,11 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 
 ### 🚀 Professional Profile
 - **Experience:** 4+ years in software development
-- **Expertise:** Full-stack web development
-- **Focus:** Delivering scalable, high-performance digital solutions
-
+- **Expertise:** Full-stack web development, Bagisto & Krayin CRM ecosystems
+- **Focus:** Delivering scalable, high-performance digital solutions with an AI-first workflow
 
 ## 💡 Technical Expertise
+
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,6 +27,16 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=mvc&logoColor=white)
+
+### E-commerce & CRM Platforms
+![Bagisto Expert](https://img.shields.io/badge/Bagisto_Expert-1ABC9C?style=for-the-badge&logo=laravel&logoColor=white)
+![Krayin CRM Expert](https://img.shields.io/badge/Krayin_CRM_Expert-2C3E50?style=for-the-badge&logo=laravel&logoColor=white)
+
+### AI Tools & Workflow
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI First Development](https://img.shields.io/badge/AI_First_Development-6C63FF?style=for-the-badge&logo=sparkles&logoColor=white)
 
 ### REST API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -50,20 +60,19 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 👁️ Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square)
 
 ### 🏆 GitHub Stats
-
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23gauravS&show_icons=true&theme=radical)
 
-
 ### ⏳ GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=23gauravS&theme=radical&hide_border=true)
 
-
 ## 🌟 Professional Highlights
+- **Bagisto Expert** — building, customizing, and extending Bagisto e-commerce modules, storefronts, and admin workflows
+- **Krayin CRM Expert** — designing custom CRM modules, integrations (WhatsApp, Mailchimp), and lead-management workflows
+- **AI First Development** — leveraging Claude, GitHub Copilot, Codex, and other AI tools throughout the SDLC for faster prototyping, code review, debugging, and documentation
+- **Modular Architecture Approach** — designing decoupled, reusable, config-driven modules that scale cleanly across Laravel-based platforms
 - Successfully developed responsive and intuitive web applications
 - Proficient in modern JavaScript frameworks and backend technologies
 - Extensive experience in PHP Laravel ecosystems
