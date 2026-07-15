@@ -1,7 +1,7 @@
 # Gaurav Singh | Full Stack Developer 💻
 
 ## About Me
-I am a passionate full-stack developer with over 3+ years of experience in building innovative web applications and robust backend systems. I specialize in modern web technologies and excel at transforming complex challenges into elegant, efficient solutions.
+I am a passionate full-stack developer with over 4+ years of experience in building innovative web applications and robust backend systems. I specialize in modern web technologies and excel at transforming complex challenges into elegant, efficient solutions.
 
 ### 🚀 Professional Profile
 - **Experience:** 4+ years in software development
