@@ -93,9 +93,6 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 ### 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square)
 
-### 🏆 GitHub Stats
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23gauravS&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile&cache_seconds=86400)
-
 ### ⏳ GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=23gauravS&theme=radical&hide_border=true)
 
