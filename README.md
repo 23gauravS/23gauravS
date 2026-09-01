@@ -94,13 +94,13 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 ![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square)
 
 ### 🏆 GitHub Stats
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23gauravS&show_icons=true&theme=radical)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23gauravS&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile&cache_seconds=86400)
 
 ### ⏳ GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=23gauravS&theme=radical&hide_border=true)
 
 ### 🧮 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23gauravS&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23gauravS&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400)
 
 ## 🌱 Open Source Contributions
 
@@ -125,4 +125,4 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23gauravS)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsingh.laravel820@webkul.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gaurav-singh-131542208)
